@@ -1,0 +1,8 @@
+13:04:28{GMT+0} - 7
+13:05:04{GMT+0} - 7
+13:06:00.379 [main] com.learnvaven.mavendemo.App.main(App.java:16)evel com.learnvaven.mavendemo.App.main(App.java:16)ogger{36} - 7sg
+DEBUG   2020-01-04 13:06:54,193 [main] com.learnvaven.mavendemo.App  - 7
+DEBUG   2020-01-04 13:13:09,715 [main] com.learnvaven.mavendemo.App  - 7
+DEBUG   2020-01-04 13:13:09,717 [main] com.learnvaven.mavendemo.App  - -3
+DEBUG   2020-01-04 13:13:09,717 [main] com.learnvaven.mavendemo.App  - 10
+DEBUG   2020-01-04 13:13:09,717 [main] com.learnvaven.mavendemo.App  - 0.0
